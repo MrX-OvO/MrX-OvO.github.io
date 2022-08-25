@@ -1,2 +1,2 @@
 # 我的GitHub首页地址
-[](https://mrx-ovo.github.io/)
+[github](https://mrx-ovo.github.io/)
